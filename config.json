@@ -1,0 +1,13 @@
+{
+    "authtoken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1OTYzNjgyNzcsImlkIjoiTW9yaXR6TXVlbGxlcjI1MDhAZ2l0aHViLmNvbSJ9.rm2inTE0v6yJj14eYqgKAi_eiWYEqWR7lqXAGm12TiM",
+    "tunnel_enabled": true,
+    "tunnels" : [{
+        "destination": "https://172.17.0.2:8080",
+        "protocol": "http",
+        "custom_domain": ""
+    }],
+    "relay_enabled": false,
+    "relays": [{
+    "destination": "https://172.17.0.2:8080"
+    }]
+}

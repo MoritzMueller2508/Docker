@@ -1,0 +1,3 @@
+adminToken: 754dc36f2bacfe1950f641d2eb93ef505d65f65b
+
+adminToken/helloWorld: ce071c550a99cd17e1a4810fbd274cb38de9f170
